@@ -1,4 +1,4 @@
-# Dive into Deep Learning (D2L.ai) --
+# Dive into Deep Learning (D2L.ai) -- AH
 
 [![Build Status](http://ci.d2l.ai/job/d2l-en/job/master/badge/icon)](http://ci.d2l.ai/job/d2l-en/job/master/)
 
